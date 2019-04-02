@@ -1,3 +1,12 @@
-.contactform{
-    padding-top: 100px; 
+.contactform {
+    padding-top: 100px;
+}
+
+.profilepic {
+    float: right;
+    padding-top: 45px;
+}
+
+.img-circle {
+    border-radius: 50%;
 }
