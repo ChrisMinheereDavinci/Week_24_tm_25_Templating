@@ -13,7 +13,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Over Mij</a>
+                    <a class="nav-link" href="overmij.php">Over Mij</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -24,7 +24,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="school.php">School</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="overmij.php">Over Mij</a>
                     </div>
                 <li class="nav-item">
                     <a class="nav-link" href="contactform.php">Contact</a>

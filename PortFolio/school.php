@@ -21,7 +21,10 @@
     ?>
 
 
-
+<p>dit is een pagina over school</p>
+tesjsaldfjasdf
+asdfasdfasjdf;<br>fsfhksldhfd
+fsdfhskdjh
 
 
 

@@ -48,7 +48,7 @@
                 <hr>
                 Ik ben chris, 20 jaar en doe een opleiding applicatie en media ontwikkelaar.<p>
                     Het is al vanaf kinds af aan een droom geweest om iets met computers te doen, maar wist nooit exact wat. Tot dat ik op het MBO in aanraking kwam met Arduino’s. Hier leerde ik zowel met hardware als software omgaan. Zo begon het onschuldig met een weerstation, maar groeide het uit tot het zelf bouwen en programmeren van een geautomatiseerd buiten verlichting dat zich zelf regelt.<p>
-                        <a class="btn btn-primary btn-lg" href="#">Over Mij. &raquo;</a>
+                        <a class="btn btn-primary btn-lg" href="overmij.php">Over Mij. &raquo;</a>
             </div>
             <div class="col-md-4 mb-5">
                 <h2>Contact</h2>
@@ -98,10 +98,10 @@
             </div>
             <div class="col-md-4 mb-5">
                 <div class="card h-100">
-                    <img class="card-img-top" src="http://placehold.it/300x200" alt="">
+                    <img class="card-img-top" src="img/pic (4).jpg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                        <h4 class="card-title">Projecten</h4>
+                        <p class="card-text">hier wat projecten die mij geinspireerd hebben om te gaan programeeren.</p>
                     </div>
                     <div class="card-footer">
                         <a href="#" class="btn btn-primary">Find Out More!</a>
